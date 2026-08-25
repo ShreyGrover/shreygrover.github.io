@@ -56,14 +56,14 @@ _Grover S_, Nguyen JA, Viswanathan V, Reinhart RMG (2021).
 **Annual Review of Medicine**
 
 13. [Sensory and decisional components of endogenous attention are dissociable.](https://journals.physiology.org/doi/full/10.1152/jn.00257.2019)  
-Banerjee S\#, _Grover S_\#, Ganesh S, Sridharan D (2019).  
+Banerjee S\*, _Grover S_\*, Ganesh S, Sridharan D (2019).  
 **Journal of Neurophysiology**
 
 14. [Unraveling causal mechanisms of top-down and bottom-up visuospatial attention with non-invasive brain stimulation.](https://link.springer.com/article/10.1007/s41745-017-0046-0)  
 Banerjee S, _Grover S_, Sridharan D (2017).  
 **Journal of The Indian Institute of Science**
 
-(\* equal contribution, # equal contribution)
+(\* equal contribution)
 
 ---
 
