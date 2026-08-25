@@ -15,11 +15,11 @@ Neuromodulation for restoring and amplifying brain function.
 Lin C\*, Wen W\*, Cheng P, Schallies S, _Grover S_, Reinhart RMG (2025).  
 **Science Advances**
 
-3. [Co-localized optode-electrode design for multimodal electroencephalography and high-density functional near infrared spectroscopy.](https://www.spiedigitallibrary.org/journals/neurophotonics/volume-12/issue-02/025006/Co-localized-optode-electrode-design-for-multimodal-functional-near-infrared/10.1117/1.NPh.12.2.025006.full) 
+3. [Co-localized optode-electrode design for multimodal electroencephalography and high-density functional near infrared spectroscopy.](https://www.spiedigitallibrary.org/journals/neurophotonics/volume-12/issue-02/025006/Co-localized-optode-electrode-design-for-multimodal-functional-near-infrared/10.1117/1.NPh.12.2.025006.full)  
 Rogers D\*, O'Brien WJ\*, Gao Y, Zimmermann B, _Grover S_, et al. (2025).  
 **Neurophotonics**
 
-4. [Beta frequency neural variability reveals age-related dissociations in human working memory maintenance and deletion.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002784) 
+4. [Beta frequency neural variability reveals age-related dissociations in human working memory maintenance and deletion.](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002784)  
 Wen W, _Grover S_, Hazel D, Berning P, Baumgardt F, Viswanathan V, Tween O, Reinhart RMG (2024).  
 **PLoS Biology**
 
