@@ -21,7 +21,7 @@ repository               : "ShreyGrover/shreygrover.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ShreyGrover.png"
+  avatar           : "ShreyGrover.jpg"
   name             : "Shrey Grover"
   pronouns         : # example: "he/him"  
   bio              : "Postdoctoral Associate"

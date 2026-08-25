@@ -8,7 +8,7 @@ author_profile: true
 ## Peer-Reviewed Publications
 
 1. _Grover S_, Wen W, Reinhart RMG (In press).  
-[Neuromodulation for restoring and amplifying brain function.](https://www.nature.com/neuro)  
+Neuromodulation for restoring and amplifying brain function.  
 **Nature Neuroscience**
 
 2. Lin C\*, Wen W\*, Cheng P, Schallies S, _Grover S_, Reinhart RMG (2025).  
@@ -84,19 +84,3 @@ _Grover S_, Reinhart RMG (2020).
 4. [Combining transcranial stimulation and electrophysiology to understand the memory representations that guide attention.](https://link.springer.com/protocol/10.1007/7657_2019_24)  
 _Grover S_, Reinhart RMG (2019).  
 In Pollman S. (Ed). **Spatial Learning and Attention Guidance. Neuromethods, Springer Nature**. New York, NY.
-
----
-
-## Under Review
-
-- _Grover S_, Qiu L, Scangos K, Halpern CH, Reinhart RMG.  
-Toward a convergent biomarker and treatment for obsessive-compulsive disorder.  
-*Under review at The Lancet Psychiatry.*
-
-- Wen W, _Grover S_, Wang C, Fang Y, Lin C, Hazel D, Schallies S, Yu H, Reinhart RMG.  
-A striatal β rhythm accelerates instruction-to-action in humans.  
-*Under review at Science.*
-
-- Lin C, Cao R, Wen W, Fang Y, _Grover S_, Zhu J, Hoang J, Zeng W, Hayashi M, Huang Y, Reinhart RMG.  
-Theta rhythm sets the pace of temporal computation in human striatum and hippocampus.  
-*Under review at Nature.*
