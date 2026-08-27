@@ -7,11 +7,15 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
-1. _Grover S_, Wen W, Reinhart RMG (In press).  
+1. _Grover S_, Qiu L, Scangos K, Halpern CH, Reinhart RMG (accepted).  
+Toward a convergent biomarker and treatment for obsessive-compulsive disorder.  
+**The Lancet Psychiatry**
+
+2. _Grover S_, Wen W, Reinhart RMG (In press).  
 Neuromodulation for restoring and amplifying brain function.  
 **Nature Neuroscience**
 
-2. [Salient experiences enhance mundane memories through graded prioritization.](https://www.science.org/doi/10.1126/sciadv.ady1704)  
+3. [Salient experiences enhance mundane memories through graded prioritization.](https://www.science.org/doi/10.1126/sciadv.ady1704)  
 Lin C\*, Wen W\*, Cheng P, Schallies S, _Grover S_, Reinhart RMG (2025).  
 **Science Advances**
 
@@ -56,14 +60,14 @@ _Grover S_, Nguyen JA, Viswanathan V, Reinhart RMG (2021).
 **Annual Review of Medicine**
 
 13. [Sensory and decisional components of endogenous attention are dissociable.](https://journals.physiology.org/doi/full/10.1152/jn.00257.2019)  
-Banerjee S\*, _Grover S_\*, Ganesh S, Sridharan D (2019).  
+Banerjee S\#, _Grover S_\#, Ganesh S, Sridharan D (2019).  
 **Journal of Neurophysiology**
 
 14. [Unraveling causal mechanisms of top-down and bottom-up visuospatial attention with non-invasive brain stimulation.](https://link.springer.com/article/10.1007/s41745-017-0046-0)  
 Banerjee S, _Grover S_, Sridharan D (2017).  
 **Journal of The Indian Institute of Science**
 
-(\* equal contribution)
+(\* equal contribution, # equal contribution)
 
 ---
 
